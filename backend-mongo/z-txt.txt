@@ -1,0 +1,18 @@
+01)npm init --yes
+02)npm i express --save
+03)npm i morgan --save
+04)npm i promise-mysql --save
+05)npm i cors --save
+06)npm install --save-dev nodemon
+07)packaje.json  "scripts": {
+                    "start": "nodemon app.js"
+                 },
+08)npm start
+
+09)npm i mongoose --save
+
+
+
+//
+start in another port: PORT=8000 npm start
+kill process on port: sudo kill -9 `sudo lsof -t -i:5000`

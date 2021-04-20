@@ -1,0 +1,4 @@
+backend/node_modules
+backend postgres/node_modules
+backend-mongo/node_modules
+backend-mysql/node_modules
